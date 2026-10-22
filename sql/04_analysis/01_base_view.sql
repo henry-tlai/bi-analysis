@@ -1,3 +1,6 @@
+USE olist;
+GO
+
 /* Analysis rules baked into this view:
    - Status: delivered orders only
    - Window: Feb 2017 through Aug 2018 (months with real volume, last complete month)
