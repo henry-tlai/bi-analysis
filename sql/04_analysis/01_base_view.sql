@@ -19,6 +19,7 @@ WITH item_summary AS (
 SELECT o.order_id,
        o.customer_id,
        o.order_purchase_timestamp,
+       CAST(o.order_purchase_timestamp AS DATE) AS order_date,
        i.items_revenue,
        i.freight_total,
        i.item_count
