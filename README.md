@@ -1,4 +1,4 @@
-# Olist Business Intelligence Analysis
+# Olist Business Intelligence Suite
 
 > SQL Server, Excel, and Power BI analysis of about 95K Olist e-commerce orders: revenue, retention, delivery performance, and sellers.
 
