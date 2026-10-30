@@ -26,8 +26,8 @@ Numbers cover delivered orders from February 2017 to August 2018 (see [Analysis 
 | Retention | Month-1 retention is below 1% in every cohort (0.18% to 0.72%). Only 3.0% of customers (about 3K of 92K) placed more than one order. Growth comes from new customers, not repeat buying. |
 | Delivery | 6.8% of orders arrive late, and delivery takes 12.5 days on average. Late deliveries spiked in November 2017 (about 12%) and March 2018 (about 19%). |
 | Reviews | On-time orders average 4.29 stars and late orders 2.27, a gap of about 2 stars. |
-| Categories | Health & beauty is the largest category. The top 10 categories make up **[X]%** of revenue. |
-| Sellers | The top 10 sellers account for **[X]%** of revenue, and **[X] of [Y]** sellers generate 80% of it. |
+| Categories | Health & beauty is the largest category. The top 10 categories make up **%** of revenue. |
+| Sellers | The top 10 sellers account for **%** of revenue, and ** of ** sellers generate 80% of it. |
 
 ## Analysis Rules
 
