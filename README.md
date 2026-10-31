@@ -100,7 +100,7 @@ olist-bi-suite/
 - Late deliveries and low review scores move together in this data. That doesn't show that lateness causes the lower scores.
 - Retention counts in later months are small, so month-to-month changes there are mostly noise.
 - Revenue excludes freight and orders outside the window or without items.
-- The currency may be misleading as the currency are mostly in Brazilian reais instead of $, and it hasn't been converted.
+- The currency may be misleading as the currency are mostly in Brazilian reais instead of $, and it hasn't been changed.
 
 ## Data Source
 
